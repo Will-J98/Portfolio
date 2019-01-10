@@ -1,0 +1,14 @@
+red 255 1 1
+green 1 255 1
+blue 1 1 255
+yellow 255 255 1
+cyan 1 255 255
+magenta 255 1 255
+navy 1 1 128
+orange 255 165 1
+teal 1 128 128
+pink 255 20 147
+gold 255 215 1
+
+
+
